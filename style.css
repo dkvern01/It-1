@@ -1,0 +1,32 @@
+button{
+  padding: 20px;
+  background-color: lightgrey;
+  border: solid 1px black;
+}
+
+input{
+  padding: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: solid 1px black;
+}
+
+#btnMeld{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.divInpt{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.btnSlett{
+margin-right: 0;
+}
+
+#meldinger{
+margin-top: 30px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
